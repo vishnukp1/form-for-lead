@@ -5,8 +5,7 @@ import iconone from './assets/Vector (1).png';
 import icontwo from './assets/Vector (2).png';
 import iconthree from './assets/Vector (3).png';
 import iconfour from './assets/Vector (4).png';
-import iconfive from './assets/Rectangle.png';
-import iconsix from './assets/Vector (6).png';
+import mapImage from './assets/Rectangle.png';
 import iconseven from './assets/Vector.png';
 import iconeight from './assets/Vector9.png';
 import times from './assets/Times.png';
@@ -51,7 +50,7 @@ function App() {
      
       </div>
  <div className='img-div'>
-  <img style={{width:"100%",height:"160px",marginBottom:"22px"}} src={iconfive} alt=''></img>
+  <img style={{width:"100%",height:"160px",marginBottom:"22px"}} src={mapImage} alt=''></img>
  </div>
  
 
