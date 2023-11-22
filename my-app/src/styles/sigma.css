@@ -1,6 +1,7 @@
 body {
   background-color: #ebf0f4;
   font-family: "Gilroy-Black", sans-serif;
+ 
 }
 .App {
   padding-left: 65px;
@@ -62,8 +63,9 @@ input[type="text"] {
    
 }
 
-.h6{
-    font-size: large;
+.div-text{
+   font-size: 17px;
+   font-weight: bold;
 }
 .top-div-two {
     display: flex;
